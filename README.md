@@ -244,11 +244,11 @@ FUTURE_DS_02_Telco_Churn/
 
 | Field         | Details                                  |
 |---------------|--------------------------------------------|
-| **Name**      | [Arindam Saha]                            |
+| **Name**      | Arindam Saha                            |
 | **Track**     | Data Science & Analytics (DS)               |
 | **Task**      | Task 02 - Telco Customer Churn Dashboard    |
-| **LinkedIn**  | [linkedin.com/in/arindam-saha-data-analyst]                         |
-| **GitHub**    | [ github.com/asahawork75]                  |
+| **LinkedIn**  | linkedin.com/in/arindam-saha-data-analyst                         |
+| **GitHub**    | github.com/asahawork75                |
 
 ---
 
